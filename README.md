@@ -1,3 +1,4 @@
+**For USC Student use!**
 #Class Checker
 Getting the class you want at the time you need is hard. Chances are,
 that perfect 2 pm spot right after lunch is already taken by the other
