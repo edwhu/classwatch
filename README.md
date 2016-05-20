@@ -24,7 +24,7 @@ Then, run these commands.
 npm run build
 npm run start
 ```
-Notice that `npm run start` will only run a single check. Meaning, for continous checking,
-you will have to either use a setInterval function and run it continously on your computer
+Notice that `npm run start` will only run a single check. Meaning, for continuous checking,
+you will have to either use a setInterval function and run it continuously on your computer
 (gross), use a CRON job (i'm doing that), or host this on an external server that can
 continuously run this script.
